@@ -179,9 +179,6 @@ The dataset used in this project is sourced from Kaggle.
   Correcting First Class SLA (1 → 2–3 days) directly addresses the **largest source of delays**
 
 ---
-## 👤 Author
-**Anis Ahmed**
----
 
 ## 📊 Dashboard
 
@@ -189,3 +186,9 @@ The dataset used in this project is sourced from Kaggle.
 ![Dashboard 2](https://raw.githubusercontent.com/anisahmed01/Supply-Chain-Delay-Risk-Diagnosis-and-Prediction/main/Dashboard%20Images/Screenshot%202026-05-01%20155241.png)
 ![Dashboard 3](https://raw.githubusercontent.com/anisahmed01/Supply-Chain-Delay-Risk-Diagnosis-and-Prediction/main/Dashboard%20Images/Screenshot%202026-05-01%20155656.png)
 
+---
+
+## 👤 Author
+**Anis Ahmed**
+
+---
