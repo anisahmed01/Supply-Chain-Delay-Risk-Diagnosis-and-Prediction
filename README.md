@@ -148,7 +148,7 @@ The dataset used in this project is sourced from Kaggle.
 
 ## 📂 Project Structure  
 ```
-├── data link kaggle
+├── Dashboard Images
 ├── notebook.ipynb
 ├── report PDF
 │ └── Supply-Chain-Delay-Risk-Diagnosis-and-Prediction.pdf
