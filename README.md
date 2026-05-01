@@ -32,8 +32,17 @@ The challenge is not just identifying delays — but understanding **why delays 
   - Customer Segment  
   - Region  
   - Department  
-  - Payment Type  
+  - Payment Type
 
+
+## 🗄️ Dataset
+
+The dataset used in this project is sourced from Kaggle.
+
+- **Source:** [DataCo Supply Chain Dataset](https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset)
+- **Provider:** Kaggle — saicharankomati
+
+> 📎 Click the link above to access and download the original dataset.
 ---
 
 ## 🔍 Key Insights  
@@ -169,6 +178,14 @@ The challenge is not just identifying delays — but understanding **why delays 
 - **Single Fix Can Eliminate Major Failure Segment**  
   Correcting First Class SLA (1 → 2–3 days) directly addresses the **largest source of delays**
 
+---
 ## 👤 Author
 **Anis Ahmed**
-  
+---
+
+## 📊 Dashboard
+
+![Dashboard 1](https://raw.githubusercontent.com/anisahmed01/Supply-Chain-Delay-Risk-Diagnosis-and-Prediction/main/Dashboard%20Images/Screenshot%202026-05-01%20155440.png)
+![Dashboard 2](https://raw.githubusercontent.com/anisahmed01/Supply-Chain-Delay-Risk-Diagnosis-and-Prediction/main/Dashboard%20Images/Screenshot%202026-05-01%20155241.png)
+![Dashboard 3](https://raw.githubusercontent.com/anisahmed01/Supply-Chain-Delay-Risk-Diagnosis-and-Prediction/main/Dashboard%20Images/Screenshot%202026-05-01%20155656.png)
+
